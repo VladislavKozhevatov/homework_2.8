@@ -7,4 +7,5 @@ public interface EmployeeServiceInter {
      Employee getEmployeeMinSalary (int department);
      List<Employee> getAllEmployeesByDep(int department);
 
+
 }

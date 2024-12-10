@@ -31,6 +31,7 @@ package com.example.homework28;
                 ", Имя сотрудника = " + fullName + '\'' +
                         ", отдел = " + department +
                         ", зарплата = " + salary + " рублей";
+
     }
 
 }

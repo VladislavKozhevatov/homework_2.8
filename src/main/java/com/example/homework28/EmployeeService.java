@@ -12,7 +12,7 @@ public class EmployeeService implements EmployeeServiceInter {
 
 
     private List<Employee> employees = List.of(
-            new Employee("Николаев Пётр Сергеевич", 1, 48000),
+            new Employee("Николаев Пётр Сергеевик", 1, 48000),
             new Employee("Иванов Сергей иванович", 1, 69000),
             new Employee("Семёнов Андрей Петрович", 2, 67000),
             new Employee("Антонов Михаил Сергеевич", 2, 100000),
